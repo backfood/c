@@ -14,5 +14,10 @@
                 "${fileBasenameNoExtension}.exe"
             ]
         }
-    ]
+    ],
+    "options": {
+        "env":{
+        "PYTHONIOENCODING": "UTF-8"
+      }
+    }
 }

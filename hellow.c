@@ -2,8 +2,9 @@
 int main()
 {
     int price=8;
-    printf("请输入数字\n");
+    printf("pleas input number\n");
    scanf("%d",&price);
    printf("%d" ,price);
-    return 0;
+    return 0; 
 }
+ 
