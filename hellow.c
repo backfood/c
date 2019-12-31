@@ -2,7 +2,7 @@
 int main()
 {
     int price=8;
-    printf("pleas input number\n");
+    printf("ÇëÊäÈëÖĞÎÄ\n");
    scanf("%d",&price);
    printf("%d" ,price);
     return 0; 
